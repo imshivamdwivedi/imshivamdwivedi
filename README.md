@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Shivam Dwivedi 👋
 
 
 
 Here are some ideas to get you started:
 
-- 🔭 Vice President, E-Cell KIET 
+- 🔭 I'm working on ... Publication Website
 - 🌱 I’m currently learning ... Android
 - 👯 I’m looking to collaborate on ... Android
 - 🤔 I’m looking for help with ... 
