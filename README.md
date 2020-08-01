@@ -1,5 +1,5 @@
 ### Hi there, I'm Shivam Dwivedi 👋
-
+![Shivam Dwivdedi](https://github.com/imshivamdwivedi/Dice-Roller/blob/master/shivaminfo.jpeg)
 
 
 Here are some ideas to get you started:
