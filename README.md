@@ -20,10 +20,17 @@ I love to talk on  Coding ⚡ Astrophysics .Connect with me here -
 
 Here are some ideas to get you started:
 - 🔭 I'm working on ... Publication Website
-- 🌱 I’m currently learning ... Android
-- 👯 I’m looking to collaborate on ... Android
-- 🤔 I’m looking for help with ... 
+- 🚀 I use daily ...
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=Java)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 🌱 I’m currently learning ... 
+![Android](https://img.shields.io/badge/-Android-green?style=plastic&logo=Android)
+- 👯 I’m looking to collaborate on ... 
+![Android](https://img.shields.io/badge/-Android-green?style=plastic&logo=Android)
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [iamshivamdwivedi](https://www.instagram.com/iamshivamdwivedi/)
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... JavaScript cannot read files from or write them to the file system on the computer
