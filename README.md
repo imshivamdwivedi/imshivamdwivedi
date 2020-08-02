@@ -8,7 +8,10 @@ I love to talk on  Coding ⚡ Astrophysics .Connect with me here -
 [![Gmail Badge](https://img.shields.io/badge/-shivamdwivediwork@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:shivamdwivediwork@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-iaashivamdwivedi-red?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/iamshivamdwivedi/)](https://instagram.com/iamshivamdwivedi)
 
-<img src="https://github.com/imshivamdwivedi/Dice-Roller/blob/master/Add%20a%20heading.png" alt="Hello world" width="100%">
+
+<p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/imshivamdwivedi/count.svg" />
