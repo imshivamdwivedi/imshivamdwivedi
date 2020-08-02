@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=plastic&logo=android-studio)
 - ⚙️ I also use and work ...
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
