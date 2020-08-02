@@ -28,9 +28,10 @@ Here are some ideas to get you started:
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 🌱 I’m currently learning ... 
-![Android](https://img.shields.io/badge/-Android-green?style=plastic&logo=Android)
+![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=Android)
 - 👯 I’m looking to collaborate on ... 
-![Android](https://img.shields.io/badge/-Android-green?style=plastic&logo=Android)
+![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=Android)
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... 
-- ⚡ Fun fact: ... JavaScript cannot read files from or write them to the file system on the computer
+- ⚡ Fun fact: ... 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript) cannot read files from or write them to the file system on the computer
