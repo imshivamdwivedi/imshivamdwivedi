@@ -20,8 +20,10 @@ I love to talk on  Coding ⚡ Astrophysics .Connect with me here -
   <img src="https://profile-counter.glitch.me/imshivamdwivedi/count.svg" />
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=imshivamdwivedi)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivamdwivedi&layout=compact)
+<a href="https://github.com/imshivamdwivedi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imshivamdwivedi&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshivamdwivedi&theme=buefy&layout=compact" />
+</a>
 
 
 Here are some ideas to get you started:
