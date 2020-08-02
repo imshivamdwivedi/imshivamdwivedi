@@ -19,6 +19,7 @@ I love to talk on  Coding ⚡ Astrophysics .Connect with me here -
 
 ![stats](https://github-readme-stats.vercel.app/api?username=imshivamdwivedi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imshivamdwivedi&layout=compact)
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='200"'> 
 
 
 Here are some ideas to get you started:
