@@ -1,4 +1,12 @@
-### Hi there, I'm Shivam Dwivedi 👋
+### Hi there 👋
+
+I love to talk on  Coding ⚡ Astrophysics .Connect with me here -
+
+[![Twitter Badge](https://img.shields.io/badge/-iamshivamdwivedi-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/panditzviews137)](https://twitter.com/panditzviews137)
+[![Facebook Badge](https://img.shields.io/badge/-iamshivamdwivedi-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/shivamdwivedi7589)](https://www.facebook.com/shivamdwivedi7589)
+[![Linkedin Badge](https://img.shields.io/badge/-iamshivamdwivedi-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivamdwivedi7/)](https://www.linkedin.com/in/shivamdwivedi7/)
+[![Gmail Badge](https://img.shields.io/badge/-shivamdwivediwork@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:shivamdwivediwork@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-iaashivamdwivedi-red?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/iamshivamdwivedi/)](https://instagram.com/iamshivamdwivedi)
 
 <img src="https://github.com/imshivamdwivedi/Dice-Roller/blob/master/Add%20a%20heading.png" alt="Hello world" width="100%">
 <p align="center"> 
