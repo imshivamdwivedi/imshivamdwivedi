@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 I work using ...
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue-3b2e5a?style=plastic&logo=vue)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
