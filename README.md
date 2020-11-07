@@ -3,7 +3,7 @@
 I love to talk on  Coding ⚡ Astrophysics .Connect with me here -
 
 <p align="center">
-<a href="https://twitter.com/panditzviews137"><img alt="Twitter" src="https://img.shields.io/badge/-iamshivamdwivedi-blue?style=flat-square&logo=Twitter"></a>
+
 <a href="https://www.linkedin.com/in/shivamdwivedi7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Dwivedi-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.facebook.com/shivamdwivedi7589"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Shivam%20Dwivedi-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/iamshivamdwivedi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-iamshivamdwivedi-blue?style=flat-square&logo=instagram"></a>
