@@ -49,11 +49,4 @@ Here are some ideas to get you started:
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) 
   
-- 🌱 I’m currently learning ... 
-![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=Android)
-- 👯 I’m looking to collaborate on ... 
-![Android](https://img.shields.io/badge/-Android-black?style=plastic&logo=Android)
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/his
-- ⚡ Fun fact: ... 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript) cannot read files from or write them to the file system on the computer
+
